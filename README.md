@@ -67,4 +67,3 @@ spark-submit spark_recommender.py
 
 ## Licence
 
-Ce projet est sous licence MIT (ou à adapter selon vos besoins).
