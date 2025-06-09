@@ -65,5 +65,4 @@ spark-submit spark_recommender.py
 
 - Nidhal Moussa
 
-## Licence
 
